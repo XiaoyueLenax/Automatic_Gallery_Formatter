@@ -1,0 +1,3 @@
+# .gitignore
+Random_Projects/test_gallery/*
+!Random_Projects/test_gallery/.gitkeep
